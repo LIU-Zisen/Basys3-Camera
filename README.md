@@ -4,4 +4,4 @@
 2. Using git clone command and clone this repository
 3. Add project files on Xlinx Vivado working directory
 ## Simulation Result
-![avatar](src/2.jpg)
+![avatar](doc/2.jpg)
