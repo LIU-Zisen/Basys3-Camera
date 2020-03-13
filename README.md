@@ -10,6 +10,6 @@
 ## Advanced Version
 I have blocked some files in order to prevent unlicenced modify. If you want to totally modify this project, Please contact me and using Paypal to paid.
 
-My Email address:liuzs1@outlook.com  
+My Email address: liuzs1@outlook.com  
 
-My PayPal.Me:paypal.me/LIUZISEN
+My PayPal.Me: paypal.me/LIUZISEN
