@@ -12,4 +12,4 @@ A FPGA Display Driver in Verilog based on Basys3 board, using VGA port as video 
 ## Simulation Result
 ![avatar](doc/2.jpg)
 ## LICENSE
-BSD
+- BSD license
