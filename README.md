@@ -1,15 +1,15 @@
 # FPGA Display Driver
+
+## Introduction
+A FPGA Display Driver in Verilog based on Basys3 board, using VGA port as video output and acquire picture by ov7670 (without extra buffer). 
 ## Install Guide
 1. Install xlinx vivado tools on your desktop
-2. Using git clone command and clone this repository
+2. Clone or download this project
 3. Add project files on Xlinx Vivado working directory
+4. Compile the project and generate bitstream files, then check/modify pin constriant.
 ## Project Structure
 ![avatar](doc/1.jpg)
 ## Simulation Result
 ![avatar](doc/2.jpg)
-## Advanced Version
-I have blocked some files in order to prevent unlicenced modify. If you want to totally modify this project, Please contact me and using Paypal to paid.
-
-My Email address: liuzs1@outlook.com  
-
-My PayPal.Me: paypal.me/LIUZISEN
+## LISCENCE
+BSD
